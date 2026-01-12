@@ -1,0 +1,16 @@
+@import url(../fontawesome/css/all.css);
+@import url(../datatables/datatables.css);
+@import url(ui.css);
+@import url(uix.css);
+@import url(datepicker.css);
+@import url(toastify.min.css);
+@import url(lity.min.css);
+@import url(xmedici.css);
+@import url(../plugins/summernote/summernote-bs5.css);
+@import url(../../matdash/css/styles.css);
+@import url(../../matdash/css/quill.snow.css);
+/* @import url(_app.sidebar.scss); */
+
+
+/* load this file only for printing */
+@import url(print.css) print;
